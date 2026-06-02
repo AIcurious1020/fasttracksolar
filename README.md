@@ -3,7 +3,7 @@
 A static HTML site for B4B Renewables, ready for GitHub Pages and Vercel deployment.
 
 ## What’s included
-- `g99 fasttrack packages.html` — main website file.
+- `index.html` — main website file.
 - `.gitignore` — keeps the repo clean.
 - `deploy_github.sh` — quick Git deploy script for Mac/Linux.
 - `deploy_windows.txt` — Git commands for Windows.
